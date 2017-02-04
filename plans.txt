@@ -1,0 +1,31 @@
+This project will be a financial transaction tracker. 
+
+Features
+  The user can access the system via webbrowser or mobile app
+  The user will login
+  user can add budget information via website interface
+  data will be added to a database
+  user will be able to search, filter, and browse data
+  user will be able to generate monthly, weekly, annual reports
+
+  Raspberry pi will host the server
+  raspberry pi will host the database (on a hard drive)
+  
+
+  Main tasks
+  1. setup raspberry pi with some server software
+    - make sure it has ethernet, disk space, memory, power
+
+  2. design user web page
+    - make the input boxes
+  3. how to get the data from the user
+    - use javascript/someother technology to extract user inputted information
+      form into something that can be makde into a database entry
+
+  4. make a bunch of entries in the database
+
+  5. figure out a way to let user see and browse database (safely)
+
+  6. figure out a way for the user to generate reports
+    - download excel/csv files?
+
